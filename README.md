@@ -4,8 +4,8 @@
  
 ## Eu sou o Eudes! Deixe-me apresentar um pouco sobre mim!
  
-##### Backend Developer .NET C# | Analista de Sistemas Sênior
-##### Amandate da tecnologia e codificação.
+##### Backend Developer |.NET C# | Java Spring
+##### Apaixonado da tecnologia e codificação.
 
 
 ## Sobre mim
